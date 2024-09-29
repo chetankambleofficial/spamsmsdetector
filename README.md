@@ -1,3 +1,5 @@
+#Spam-Sms-Detector
+
 This project is a machine learning-based web application designed to classify SMS and email messages as either "Spam" or "Not Spam." It uses Natural Language Processing (NLP) and Machine Learning techniques to preprocess text and predict spam using a trained model. The app is built with Streamlit for an intuitive, interactive interface.
 
 ![image](https://github.com/user-attachments/assets/9ec02955-d1fb-4cb9-9f35-391f5741515a)
